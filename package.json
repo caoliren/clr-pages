@@ -1,17 +1,17 @@
 {
-  "name": "zce-pages",
+  "name": "clr-pages",
   "version": "0.1.0",
   "description": "static web app workflow",
   "keywords": [
-    "zce-pages",
-    "zce"
+    "clr-pages",
+    "clr"
   ],
-  "homepage": "https://github.com/akshow/zce-pages#readme",
+  "homepage": "https://github.com/akshow/clr-pages#readme",
   "bugs": {
-    "url": "https://github.com/akshow/zce-pages/issues"
+    "url": "https://github.com/akshow/clr-pages/issues"
   },
   "license": "MIT",
-  "author": "akshow <1914003458@qq.com>",
+  "author": "akshow <844484564@qq.com>",
   "files": [
     "lib"
   ],
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akshow/zce-pages.git"
+    "url": "git+https://github.com/akshow/clr-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"

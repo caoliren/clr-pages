@@ -1,4 +1,4 @@
-# zce-pages
+# clr-pages
 
 [![NPM Downloads][downloads-image]][downloads-url]
 [![NPM Version][version-image]][version-url]
@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ npm install zce-pages
+$ npm install clr-pages
 
 # or yarn
-$ yarn add zce-pages
+$ yarn add clr-pages
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ yarn add zce-pages
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const zcePages = require('zce-pages')
+const zcePages = require('clr-pages')
 const result = zcePages('zce')
 // result => 'zce@zce.me'
 ```
@@ -60,19 +60,19 @@ const result = zcePages('zce')
 
 ## License
 
-[MIT](LICENSE) &copy; akshow <1914003458@qq.com>
+[MIT](LICENSE) &copy; akshow <844484564@qq.com>
 
 
 
-[downloads-image]: https://img.shields.io/npm/dm/zce-pages.svg
-[downloads-url]: https://npmjs.org/package/zce-pages
-[version-image]: https://img.shields.io/npm/v/zce-pages.svg
-[version-url]: https://npmjs.org/package/zce-pages
-[license-image]: https://img.shields.io/github/license/akshow/zce-pages.svg
-[license-url]: https://github.com/akshow/zce-pages/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david/akshow/zce-pages.svg
-[dependency-url]: https://david-dm.org/akshow/zce-pages
-[devdependency-image]: https://img.shields.io/david/dev/akshow/zce-pages.svg
-[devdependency-url]: https://david-dm.org/akshow/zce-pages?type=dev
+[downloads-image]: https://img.shields.io/npm/dm/clr-pages.svg
+[downloads-url]: https://npmjs.org/package/clr-pages
+[version-image]: https://img.shields.io/npm/v/clr-pages.svg
+[version-url]: https://npmjs.org/package/clr-pages
+[license-image]: https://img.shields.io/github/license/akshow/clr-pages.svg
+[license-url]: https://github.com/akshow/clr-pages/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/akshow/clr-pages.svg
+[dependency-url]: https://david-dm.org/akshow/clr-pages
+[devdependency-image]: https://img.shields.io/david/dev/akshow/clr-pages.svg
+[devdependency-url]: https://david-dm.org/akshow/clr-pages?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com
